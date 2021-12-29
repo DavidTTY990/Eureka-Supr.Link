@@ -1,0 +1,65 @@
+---
+title: "【Supr.Link】使用 Supr.Link 超級連結 — 多種需求，一次滿足！"
+featuredImage: images/featured-image/CH01PH01.png
+description: 你尋找的完美行銷工具解決方案！
+date: 2021-12-29T15:04:54+08:00
+draft: false
+---
+## Supr.Link 超級連結
+
+*免費就超強，分流、加密、投放、轉換、批次上傳與追蹤數據，獲取流量！*
+
+電獺長期以來都在數位內容產業中努力，致力於縮短創作至變現的距離，除了讓創作者與數位工作者能夠更心無旁騖的完成創作與工作之外，更重要的是加快實際商業化的速度。
+我們在營運 電獺少女 與服務各式的創作者中觀察到，儘管目前市面上的行銷工具種類繁多，但功能卻較為單一。這也進而導致了工作者必須同時使用數種不同功能的行銷工具，造成令人手忙腳亂的情況。為了滿足多功能、安全與易用的需求，Supr.Link 超級連結 就此誕生了！
+<br>
+<br>
+<br>
+## Supr.Link 超級連結 如何成為你的得力助手？
+<!--2nd image-->
+![Supr.Link-FrontPage](/CH01/CH01PH02.png)
+<br>
+**・實用功能一次具備 ｜** 免費縮網址服務，同時支援 電話、信箱、地址 的縮址服務，以及批次製作功能！
+<br>
+<br>
+<br>
+<!--3rd image-->
+![Supr.Link-IDE](/CH01/CH01PH03.jpeg)
+<br>
+**・最高規格安全性 ｜** 人工審核短網址、用戶實名認證機制 — 杜絕釣魚網站與惡意連結！
+<br>
+<br>
+<br>
+<!--4th image-->
+![Supr.Link-Ad-Page](/CH01/CH01PH04.png)
+<br>
+**・高度彈性｜** 客製縮圖與標題，將短網址以自己想要的方式呈現
+<br>
+<br>
+<br>
+<!--5th image-->
+![Supr.Link-Creator-Network-Intro](/CH01/CH01PH05.png)
+<br>
+**・加強推廣｜**市場唯一！將短網址內容進行聯播網廣告投放
+<br>
+<br>
+<br>
+![Supr.Link-Creator-Network-Intro2](/CH01/CH01PH06.png)
+<br>
+**・輕鬆挖掘潛在客戶｜**將搜集完成的用戶名單在其他平台進行精準的二次投放
+<br>
+<br>
+<br>
+<!--6th image-->
+![Supr.Link-CoffeeHouse](/CH01/CH01PH07.jpeg)
+<br>
+**・多平台整合功能｜**可置入 UTM、GA、FB Pixel 進行跨平台成效追蹤！
+<br>
+<br>
+工欲善其事，必先利其器，讓 Supr.Link 超級連結 成為你的高效秘密武器吧！
+若有任何疑問，或是想瞭解更多的地方，歡迎與客服獺聯繫，我們會以最快的速度回覆您！
+<br>
+<br>
+## 還在等什麼呢？
+馬上開始使用 Supr.Link，享受輕鬆上手的強大行銷工具吧！⬇⬇⬇
+
+[Supr.Link 超級連結｜免費就超強！分流、加密、投放、轉換，獲取更多流量！不論老手新手，絕對讓你輕易上手！](https://console.supr.link)
