@@ -1,3 +1,3 @@
 ---
-title: Posts
+title: Supr.Link Tutorial
 ---
