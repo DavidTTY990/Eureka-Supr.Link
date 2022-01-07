@@ -1,10 +1,9 @@
 ---
 title: Vintage
 draft: true
-slogan: We are all in the gutter, but some of us are looking at the stars.
+slogan: 最簡單的行銷工具，任誰都能秒上手！
 imgLeft: images/hero-left.jpg
 imgRight: images/hero-right.jpg
-
 weight: 4
 widget:
   handler: vintage
