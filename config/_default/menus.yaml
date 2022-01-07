@@ -2,9 +2,12 @@ main:
   - name: 關於客服獺
     url: '#about'
     weight: 1
+  - name: 文章分類
+    url: /series/
+    weight: 2
   - name: 文章列表
     url: /posts/
-    weight: 2
+    weight: 3  
   #name: Docs
   #url: /docs/
   #weight: 3
