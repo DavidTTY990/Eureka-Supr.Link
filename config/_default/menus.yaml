@@ -8,6 +8,6 @@ main:
   - name: 文章列表
     url: /posts/
     weight: 3  
-  #name: Docs
-  #url: /docs/
-  #weight: 3
+   #name: Docs
+   #url: /docs/
+   #weight: 3
