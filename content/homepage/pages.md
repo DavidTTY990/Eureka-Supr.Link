@@ -4,7 +4,7 @@ draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 4
 # Options: card, plain and masonry.
 style: card
 
@@ -17,19 +17,19 @@ widget:
 
   sidebar: 
     # Options: left and right. Leave blank to hide.
-    position: 
+    position:
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: lg
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color:
-    image: 
+    image:
     # Options: auto, cover and contain. Default is auto.
-    size: 
+    size:
     # Options: center, top, right, bottom, left.
-    position: 
+    position:
     # Options: fixed, local, scroll.
-    attachment: 
+    attachment:
 ---
 
