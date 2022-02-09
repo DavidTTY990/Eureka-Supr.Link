@@ -9,7 +9,7 @@ theme: eureka
 
 paginate: 4
 copyright: >
-  &copy; 2022 <a href="https://aotter.net/">Aotter .Inc</a>
+  &copy; 2022 <a href="https://aotter.net/" target= "_blank">Aotter Inc.</a>
 enableEmoji: true
 enableGitInfo: false
 summaryLength: 75
