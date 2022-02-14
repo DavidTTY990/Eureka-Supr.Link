@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: Supr.Link Tutorial.
 
 repoEditURL:
 
@@ -39,9 +39,9 @@ math:
   #   # For example, `throwOnError` should be written as `throw-On-Error` or other acceptable formats.
   #   leqno:
 
-comment:
+
   # Options: disqus, commento, valine and utterances.
-  handler:
+  handler: 
 
   # disqus:
   #   shortname:
