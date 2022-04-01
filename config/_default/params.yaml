@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: A digital marketing blog about Supr.Link URL shortener. Including user tutorial and and digitil advertising. Powered by Aotter.Inc
+description: A digital marketing blog about Supr.Link URL shortener. Including tutorial and and digital marketing. Powered by Aotter.Inc
 
 repoEditURL:
 
@@ -12,7 +12,7 @@ titleSeparator:
 colorScheme:
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-siteType: Person
+siteType: LocalBusiness
 icon: images/Supr.Link-logo.png
 publisherName: Supr.Link Support Team
 publisherLogo:

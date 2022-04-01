@@ -1,4 +1,4 @@
-baseURL: https://davidtty990.github.io/
+baseURL: https://aotter.github.io
 title: Supr.Link 小精靈
 
 # Comment when installing using Hugo Modules
@@ -47,6 +47,6 @@ build:
 
 sitemap:
   changefreq: monthly
-  filename: sitemap.xml
+  filename: supr.link-sitemap.xml
   priority: 0.5
   
